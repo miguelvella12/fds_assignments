@@ -1,4 +1,4 @@
-# Fundamentals of Data Science Assignment 1
+# Assignment 1
 In this study, exploratory and predictive questions were carried out related to the
 5th Sustainable Development goal, which is to “achieve gender equality and empower all women and girls.” For our exploratory question, the correlation between mentions of gender equality in public speeches and progress in
 gender equality indicators were examined, including the female labor force, unemployment rates,
@@ -13,7 +13,7 @@ Predictions were made for the Central African Republic, Burundi, and Switzerland
 to determine the performance of the model. The metrics showcase that the model
 predicts the gender inequality index very well across the board.
 
-# Fundamentals of Data Science Assignment 2
+# Assignment 2
 An implementation of link prediction is presented using supervised machine learning technique. Various features were selected
 that encapsulate the node structure such as common neighbours, degree
 centrality and community detection. Models were trained using the
